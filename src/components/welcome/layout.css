@@ -1,0 +1,24 @@
+.jumbotron {
+  background-color: rgba(8, 22, 44, 0.555);
+  /* max-width: 800px; */
+  margin: auto;
+}
+
+.radio {
+  border-left: 6px solid rgb(63, 23, 209);
+  border-bottom: 1px solid rgb(16, 6, 105);
+  background-color: rgb(81, 181, 228);
+  border-radius: 5px;
+  /* border: 1px solid yellow;
+  outline-style: outset;
+  outline-color: invert; */
+}
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #eeece6;
+}
+
+#section {
+  margin: 100px 350px 75px 50px;
+}
